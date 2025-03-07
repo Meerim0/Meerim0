@@ -1,5 +1,5 @@
 ## Hello! 👋  
-I'm **Meerim**, a budding **Machine Learning Engineer** passionate about leveraging AI to solve real-world problems. 
+I'm **Meerim**
 
 ---
 
