@@ -23,13 +23,6 @@ I'm **Meerim**
 ---
 
 ## 🚀 About Me  
-- 🔍 Exploring machine learning and artificial intelligence.  
-- 📚 Currently studying at **[SENATOROVAI](https://github.com/SENATOROVAI)** to deepen my expertise in machine learning.
-- 🧠 Learning:  
-  - Mathematics  
-  - Machine learning libraries: **Scikit-learn**, **PyTorch**, **Keras**, **NumPy**, **Pandas**  
-  - **Django** for web development  
-  - **PostgreSQL** for database management
 
 ---
 
